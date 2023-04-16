@@ -238,8 +238,8 @@ For repairs / replacements which needs to be done at our facility, the packing &
 by the customer.
 However, any defects / faults caused by improper use, user carelessness, inadequate maintenance, or natural disaster,
 will not be covered under the warranty. 
-
-    ![RE Stamp](https://user-images.githubusercontent.com/130212523/231707829-3a80993c-f9e3-4a8a-9c93-0647f4f82233.JPG)
+ 
+![RE Stamp](https://user-images.githubusercontent.com/130212523/231707829-3a80993c-f9e3-4a8a-9c93-0647f4f82233.JPG)
 
     
                          Company Seal
